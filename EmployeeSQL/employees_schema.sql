@@ -10,6 +10,6 @@ CREATE TABLE "employees" (
     "first_name" varchar(20)   NOT NULL,
     "last_name" varchar(20)   NOT NULL,
     "sex" varchar(1)   NOT NULL,
-    "hire_date" varchar(10)   NOT NULL
+    "hire_date" date   NOT NULL
 );
 
