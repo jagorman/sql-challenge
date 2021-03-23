@@ -4,7 +4,7 @@
 
 
 CREATE TABLE "employees" (
-    "emp" varchar(10)   NOT NULL,
+    "emp_no" varchar(10)   NOT NULL,
     "emp_title" varchar(10)   NOT NULL,
     "birth_date" varchar(10)   NOT NULL,
     "first_name" varchar(20)   NOT NULL,
